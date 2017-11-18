@@ -10,6 +10,7 @@ This figure shows the level of acceptance rate among the 50 states and the total
 Figure 1 however, has an untold story. The death counts are in fact, absolute values and have not been normalized by taking state population into account. Taking a quick look at an similar visualization below (continental US) with death rate instead of total death count, we can see that the opposite is true; states with higher acceptance rate for gun regulations has a low death rate than those with lower acceptance rate. Note, death rate is calculated by taking number of deaths per 100,000 population total (see source (9)).<br>
 **Figure 2:**<br>
 <img width="903" alt="screen shot 2017-11-17 at 6 04 38 pm" src="https://user-images.githubusercontent.com/32026039/32975967-67fd290e-cbc2-11e7-943b-1adbf7d55e86.png"><br>
+
  __[View On Tableau Public](https://public.tableau.com/views/StatesWithHigherFirearmRegulationsAcceptanceRateObservesaDecreaseinFirearmRelatedDeaths2005-2015/Dashboard3?:embed=y&:display_count=yes)__<br>
 
 
@@ -18,6 +19,7 @@ From the above adjusted figure, we can see that the states in the mid-west now h
 
 **Figure 3:**<br>
 <img width="1045" alt="screen shot 2017-11-17 at 1 42 05 pm" src=“https://user-images.githubusercontent.com/32026039/32976097-13b62366-cbc5-11e7-8cbf-fc682484825a.png"><br>
+
 For this version, I attempt to visualize the change in deaths rates for the states by taking the difference between death rate for 2015 and 2005, and then dividing by death rate of 2005. I am trying to show that states with higher acceptance rate for gun regulations will see a decreasing trend in gun deaths rate. California and the Tristate area now all have a negative death rate change (or no change in death rate) over the 10 years; the opposite could be said for the mid-west and southern. However, for Illinois and Hawaii (both with very high acceptance rate) there is an increase in death rate. This might be explained by the infamous mass shootings in the 2000’s, which are still very rare and random events. For Hawaii, the data might be put into more perspective by looking at the absolute death counts, which are very low to begin with; the rate of death rate will be distorted with a very small increase in death counts.<br>
 
 ### Discussion:<br>
